@@ -150,5 +150,4 @@ with tab4:
 
 st.subheader(':green[I hope to add to and further explore this data over time.] :woman-running:')
 
-st.image("images/running_women.jpg", caption="Image courtesy of sasint/pixabay")
 
